@@ -7,4 +7,4 @@ Instructions:
   <code> $docker build . -t openjms </code>
 # docker image available in dockerhub 
 you can pull an already buit docker image from my repo in dockerhub using the folwling 
-<code docker pull abhakim1980/myopenrepo:openjms </code>
+<code> docker pull abhakim1980/myopenrepo:openjms </code>
